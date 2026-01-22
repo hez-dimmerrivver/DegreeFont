@@ -3,10 +3,7 @@
 °Font is a project that combines and reimagines weather forecasting and variable font platforms. Like people check the daily temperature, this platform allows users to explore annual global temperature changes. The project also employs a generative font system that visually responds to temperature variations. When users select a specific month and year, the temperature value appears in a font resembling tree branches. As the temperature increases, the branches gradually wither and begin to burn, symbolizing the impact of rising global temperatures and wildfires.
 
 ## Concept / Intent
-Climate change and global warming are widely recognized issues; however, public engagement has diminished over time. This project aims to raise public awareness by communicating the impacts of these issues through an immersive and artistic approach.
-
 My project connects wildfires with annual temperature changes, as temperature is the most tangible way for people to perceive climate change. To ensure accuracy, I use NASA’s Surface Temperature Analysis (GISTEMP v4) [4], which records annual temperature anomalies since the 1970s. This dataset provides reliable historical data and minimizes errors through multiple analytical methods. The analysis shows annual anomalies compared to the 1951–1980 baseline period, which represents a relatively stable climate.
-
 As a result, I aim to create a temperature record platform with a variable font, enabling audiences to recognise the urgency of climate change through interactive data visualisation.
 
 ##Technology Used
@@ -34,6 +31,10 @@ This project was mainly developed using P5.js to create the platform, and the in
 <img width="1391" height="769" alt="Screenshot 2026-01-22 at 21 38 51" src="https://github.com/user-attachments/assets/6ef8cc93-e951-4e99-acce-1eb26164e6c9" />
 
 
+https://github.com/user-attachments/assets/f05d8524-e18d-4431-aedd-2a9fb37f5f3a
+
+
+
 
 
 ## Credits / Acknowledgements
@@ -56,6 +57,6 @@ References:
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 ## Contact / Links
-https://www.dimmerrivver.com
-
-jhanfordesign@gmail.com
+Github: https://github.com/hez-dimmerrivver/DegreeFont.git
+Website: https://www.dimmerrivver.com
+E-mail: jhanfordesign@gmail.com
