@@ -1,8 +1,8 @@
 # DEGREE FONT
-## Short Description
+## Description
 °Font is a project that combines and reimagines weather forecasting and variable font platforms. Like people check the daily temperature, this platform allows users to explore annual global temperature changes. The project also employs a generative font system that visually responds to temperature variations. When users select a specific month and year, the temperature value appears in a font resembling tree branches. As the temperature increases, the branches gradually wither and begin to burn, symbolizing the impact of rising global temperatures and wildfires.
 
-## Concept / Intent
+## Concept
 My project connects wildfires with annual temperature changes, as temperature is the most tangible way for people to perceive climate change. To ensure accuracy, I use NASA’s Surface Temperature Analysis (GISTEMP v4) [4], which records annual temperature anomalies since the 1970s. This dataset provides reliable historical data and minimizes errors through multiple analytical methods. The analysis shows annual anomalies compared to the 1951–1980 baseline period, which represents a relatively stable climate.
 As a result, I aim to create a temperature record platform with a variable font, enabling audiences to recognise the urgency of climate change through interactive data visualisation.
 
@@ -22,7 +22,7 @@ This project was mainly developed using P5.js to create the platform, and the in
 5. Temperature Thermistor
 6. 100k Thermistor
 
-## Screenshots / Media
+## Outcome & Sketches
 <img width="1174" height="709" alt="cover" src="https://github.com/user-attachments/assets/34329b1f-e605-488e-a01d-41331688e2ea" />
 <img width="1512" height="778" alt="1" src="https://github.com/user-attachments/assets/330a6966-2cc8-4020-82af-0382bcbdd44c" />
 <img width="1506" height="777" alt="2" src="https://github.com/user-attachments/assets/9418de7a-4d78-40b6-aec2-d4e4051311eb" />
