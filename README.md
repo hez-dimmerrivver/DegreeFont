@@ -6,7 +6,7 @@
 My project connects wildfires with annual temperature changes, as temperature is the most tangible way for people to perceive climate change. To ensure accuracy, I use NASA’s Surface Temperature Analysis (GISTEMP v4) [4], which records annual temperature anomalies since the 1970s. This dataset provides reliable historical data and minimizes errors through multiple analytical methods. The analysis shows annual anomalies compared to the 1951–1980 baseline period, which represents a relatively stable climate.
 As a result, I aim to create a temperature record platform with a variable font, enabling audiences to recognise the urgency of climate change through interactive data visualisation.
 
-##Technology Used
+## Technology Used
 This project was mainly developed using P5.js to create the platform, and the installation was built using an Arduino Mega board and a temperature thermistor.
 
 ## How to Run
