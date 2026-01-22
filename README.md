@@ -13,12 +13,21 @@ As a result, I aim to create a temperature record platform with a variable font,
 This project was mainly developed using P5.js to create the platform, and the installation was built using an Arduino Mega board and a temperature thermistor.
 
 ## How to Run
-The code can run 
+1. Download all the project files.
+2. Open the file "sketch.js" in a web browser.
+3. Click the "Connect to Earth" button on the platform to connect to the installation.
 
 ## Requirements
-*Tech stack, browser, OS, libs.*
+1. Web browser
+2. Arduino Mega Board
+3. Breadboard
+4. Jump Wires
+5. Temperature Thermistor
+6. 100k Thermistor
+
 ## Screenshots / Media
-*Include in-action visuals.*
+<img width="1174" height="709" alt="cover" src="https://github.com/user-attachments/assets/34329b1f-e605-488e-a01d-41331688e2ea" />
+
 ## Credits / Acknowledgements
 *Who made it, references.*
 ##License
