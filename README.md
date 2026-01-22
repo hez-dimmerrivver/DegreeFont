@@ -58,4 +58,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 ## Contact / Links
 https://www.dimmerrivver.com
 
-e: jhanfordesign@gmail.com
+jhanfordesign@gmail.com
