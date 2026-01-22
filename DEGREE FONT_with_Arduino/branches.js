@@ -28,6 +28,7 @@ class Branches {
 
     // variables updated every frame
     this.age = 0;
+    this.lifespan = 250;
     this.anomaly=anomaly;
   }
 
@@ -35,6 +36,7 @@ class Branches {
   update() {
     // Increase age of this tendril
     this.age += 1;
+    this.lifespan -= 2.0;
 
     // Move in a random direction
     this.angle += random(-this.angleChangeAmt, this.angleChangeAmt); // Slight random change in direction
@@ -49,10 +51,10 @@ class Branches {
     this.x2 += cos(this.angle) * this.speed2;
     this.y2 += sin(this.angle) * this.speed2;
 
+
     if (this.age > 40) {
       return;
-    }
-  
+    } 
 
     // Randomly split into two Fungus objects
     if (random(100) < this.chanceSplit) {
@@ -64,32 +66,48 @@ class Branches {
 
   ///////////display////////////////////////////////////////////
   display() {
-    let fire=map(this.anomaly,-0.2,0.8,100,0)
-    let fire2=map(this.anomaly,-0.2,0.8,0,100)
-    //outer branch
+    let fireAlpha = map(this.anomaly, 0, 0.8, 0, 80, true);
+    let currentAlpha = (this.lifespan / 100) * (fireAlpha * 0.1);
+    
+    //outer branch & fire
     push()
+    let r = 140+fireAlpha*3.5;
+    let g = 170-fireAlpha*3;
+    let b = 90-fireAlpha*1.5;    
     strokeWeight(0.6);
-    stroke(120+fire2*1.8, 190-fire2*2, 70-fire2*1.5, 90);
-    line(this.prevX, this.prevY, this.x, this.y); // draw the movement line from previous to current position
-     pop()
+    stroke(r, g, b, 90);
+    line(this.prevX, this.prevY, this.x, this.y); 
+    pop() 
     
     push()
-    fill(255,random(50,140)+this.age*0.7,30+fire2*0.5,0+this.age*0.5-fire*1.6)
+    let fireR = random(220,255)
+    let fireG = random(130,240)-fireAlpha
+    let fireB = 100-fireAlpha
+    let fireSize = random(5,15)-this.age*0.03
+    fill(fireR,fireG, fireB, currentAlpha)
     noStroke()
-    circle(this.x, this.y,8-this.age*0.05)
+    circle(this.x, this.y,fireSize)
     pop()
     
-    //structure
+    //structure branch & fire
     push()
+    let r2 = 20+fireAlpha*4
+    let g2 = 100-fireAlpha*2
+    let b2 = 30-fireAlpha*1
     strokeWeight(0.6);
-    stroke(25+fire2*2, 90-fire2*0.1, 40-fire2);
+    stroke(r2,g2,b2);
     line(this.prevX2, this.prevY2, this.x2, this.y2);
     pop()
-       
+    
     push()
-    fill(255,random(150,230)+fire2*0.5,120+fire2*0.5,0+this.age*0.5-fire*1.9)
+    let fireR2 = 255
+    let fireG2 = 255-fireAlpha*0.3
+    let fireB2 = 200-fireAlpha*0.3
+    let fireSize2 = random(0,12)
+    fill(fireR2,fireG2, fireB2, currentAlpha)
     noStroke()
-    circle(this.x2, this.y2,9-this.age*0.05)
+    circle(this.x2, this.y2,fireSize2)
     pop()
+       
   }
 }
