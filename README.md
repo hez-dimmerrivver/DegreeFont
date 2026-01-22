@@ -51,8 +51,7 @@ References:
 [8] Jeff Thompson (2021) CP1: Object-Oriented Programming in P5JS – Random Growth. YouTube. Available at: https://www.youtube.com/watch?v=WpzdIwYnSS0
 [9] Coding Train (2024) Coding Challenge 178: Climate Spiral. YouTube. Available at: https://www.youtube.com/watch?v=rVBTxnRyOuE
 
-##License
-
+## License
 © 2026 Hez.
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
