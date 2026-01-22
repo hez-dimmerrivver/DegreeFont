@@ -30,10 +30,14 @@ This project was mainly developed using P5.js to create the platform, and the in
 <img width="1512" height="778" alt="1" src="https://github.com/user-attachments/assets/330a6966-2cc8-4020-82af-0382bcbdd44c" />
 <img width="1506" height="777" alt="2" src="https://github.com/user-attachments/assets/9418de7a-4d78-40b6-aec2-d4e4051311eb" />
 <img width="1509" height="778" alt="3" src="https://github.com/user-attachments/assets/b1b18ac8-ed01-43a5-ba2d-a362970958b0" />
+![Cover](https://github.com/user-attachments/assets/b1659086-cde1-4741-a8a9-020a39d389d4)![Uploading IMG_3719.jpg
+![IMG_3719](https://github.com/user-attachments/assets/e70a49ac-3160-4fa2-bb00-9555511e1f99)
+![IMG_3718](https://github.com/user-attachments/assets/d1ed74ae-6545-4059-bf74-56a277d2989c)
 https://vimeo.com/1153203289?share=copy&fl=sv&fe=ci
 
 ## Credits / Acknowledgements
 Author: Hez (Jiang He Zhang)
+
 References: 
 [1] Helsingin Sanomat, Climate Crisis Font. Available at:https://kampanjat.hs.fi/climatefont/ [Accessed 5 Jan 2026].
 [2] Our World in Data, Wildfires. Available at: https://ourworldindata.org/wildfires [Accessed 5 Jan 2026].
@@ -48,6 +52,7 @@ References:
 ##License
 © 2026 Hez.
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
 ## Contact / Links
-[https://](https://www.dimmerrivver.com/)
+https://www.dimmerrivver.com
 e: jhanfordesign@gmail.com
