@@ -33,7 +33,9 @@ This project was mainly developed using P5.js to create the platform, and the in
 <img width="1392" height="603" alt="Screenshot 2026-01-22 at 21 39 01" src="https://github.com/user-attachments/assets/1547b42d-176c-423e-ad04-566b6e7eb609" />
 <img width="1391" height="769" alt="Screenshot 2026-01-22 at 21 38 51" src="https://github.com/user-attachments/assets/6ef8cc93-e951-4e99-acce-1eb26164e6c9" />
 
+
 ## Credits / Acknowledgements
+
 Author: Hez (Jiang He Zhang)
 
 References: 
@@ -53,4 +55,5 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 
 ## Contact / Links
 https://www.dimmerrivver.com
+
 e: jhanfordesign@gmail.com
