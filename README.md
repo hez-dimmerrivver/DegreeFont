@@ -33,6 +33,9 @@ This project was mainly developed using P5.js to create the platform, and the in
 
 https://github.com/user-attachments/assets/f05d8524-e18d-4431-aedd-2a9fb37f5f3a
 
+Full Video:
+https://vimeo.com/1153203289?share=copy&fl=sv&fe=ci
+
 
 
 
@@ -58,5 +61,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 
 ## Contact / Links
 Github: https://github.com/hez-dimmerrivver/DegreeFont.git
+
 Website: https://www.dimmerrivver.com
+
 E-mail: jhanfordesign@gmail.com
