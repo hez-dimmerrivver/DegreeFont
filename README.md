@@ -30,7 +30,6 @@ This project was mainly developed using P5.js to create the platform, and the in
 <img width="1512" height="778" alt="1" src="https://github.com/user-attachments/assets/330a6966-2cc8-4020-82af-0382bcbdd44c" />
 <img width="1506" height="777" alt="2" src="https://github.com/user-attachments/assets/9418de7a-4d78-40b6-aec2-d4e4051311eb" />
 <img width="1509" height="778" alt="3" src="https://github.com/user-attachments/assets/b1b18ac8-ed01-43a5-ba2d-a362970958b0" />
-<img width="656" height="554" alt="Screenshot 2026-01-22 at 21 38 37" src="https://github.com/user-attachments/assets/52c89b76-9f0a-4db6-aecc-60281789f8e2" />
 <img width="1392" height="603" alt="Screenshot 2026-01-22 at 21 39 01" src="https://github.com/user-attachments/assets/1547b42d-176c-423e-ad04-566b6e7eb609" />
 <img width="1391" height="769" alt="Screenshot 2026-01-22 at 21 38 51" src="https://github.com/user-attachments/assets/6ef8cc93-e951-4e99-acce-1eb26164e6c9" />
 
