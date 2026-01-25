@@ -31,8 +31,6 @@ This project was mainly developed using P5.js to create the platform, and the in
 <img width="1391" height="769" alt="Screenshot 2026-01-22 at 21 38 51" src="https://github.com/user-attachments/assets/6ef8cc93-e951-4e99-acce-1eb26164e6c9" />
 
 
-https://github.com/user-attachments/assets/f05d8524-e18d-4431-aedd-2a9fb37f5f3a
-
 Full Video:
 https://vimeo.com/1153203289?share=copy&fl=sv&fe=ci
 
